@@ -5,6 +5,6 @@
 <br>
 python=3.6
 <br>
-pytorch=安装最新版本即可,我使用的是cpu版本
+pytorch=1.10.1
 <br>
 gym=0.25
