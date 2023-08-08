@@ -1,3 +1,6 @@
+<b>强化学习课程已经出新版啦! 旧版代码已经不再维护, 建议移步:https://www.bilibili.com/video/BV1X94y1Y7hS</b>
+<br><br>
+
 视频课程:https://www.bilibili.com/video/BV1Ge4y1i7L6/
 
 <br>
